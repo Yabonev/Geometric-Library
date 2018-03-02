@@ -4,7 +4,7 @@
   ###  CONSOLE APPLICATION : Geometry_Library Project Overview
 ========================================================================
 
-*Notes* : The **Ring** class represents a circle *circumference*  
+*Notes* : The **Ring** class represents a circle's *circumference*,  
 thus it does *not* have a surface opposite to the **Circle** class
 
 /////////////////////////////////////////////////////////////////////////////
