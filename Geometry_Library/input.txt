@@ -1,0 +1,1 @@
+6 Ring 1 1 3 Square 3 3 3 Rectangle 1 1 3 3 Ring 2 1 3 Triangle 1 1 3 3 5 5 Circle 1 5 3 
